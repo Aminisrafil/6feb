@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.top h2{
+    color: #262626;
+    font-family: Marcellus,sans-serif;
+    font-weight: 400;
+    font-size: 43px;
+}
+.top p{
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 1.55em;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: none;
+}
+.top{
+    margin-top: 9rem;
+}
+.box{
+    text-align: center;
+}
+.herald{
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/new-new-h1-bacground-img-3.jpg);
+}
+
+.box1 img{
+    width: 100%;
+}
+.herald-top{
+    margin: 5rem 0;
+}
+.box1{
+    text-align: left;
+}
+.box1 p{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    margin: 8px 0 0;
+    font-family: "Open Sans",sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 300;
+    color: #656565;
+}
+.box1 a{
+    text-decoration: none;
+    color: #262626;
+    font-size: 12px;
+    line-height: 1.15em;
+    letter-spacing: .15em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.box1 a:hover{
+    color: #be9c79;
+}
+.box1 h6{
+    margin-top: 10px;
+}
+.online{
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/new-new-h1-bacground-img-3.jpg);
+    margin-top: 5rem;
+}
+.boximg{
+    width: 100%;
+}
+.boximg img{
+    width: 100%;
+}
+
+
+
+
+
